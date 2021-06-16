@@ -6,3 +6,5 @@ In WebGeo is the API running on the server with the database.
 In sql folder there are the scripts for the database of Pokemon and world game data.  
 In pokego-explorer-bot-new is the code of the bots that collected the data of the pokemons.  
 In Iconos are the advertising images and app icons.
+
+Multi-language in Spanish and English
