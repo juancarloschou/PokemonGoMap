@@ -1,0 +1,30 @@
+D:\programacion\HTML5\Pokemon\Servidor\Web2\BaseDatos\bin\Debug\BaseDatos.dll
+D:\programacion\HTML5\Pokemon\Servidor\Web2\BaseDatos\bin\Debug\BaseDatos.pdb
+D:\programacion\HTML5\Pokemon\Servidor\Web2\BaseDatos\obj\Debug\BaseDatos.csprojResolveAssemblyReference.cache
+D:\programacion\HTML5\Pokemon\Servidor\Web2\BaseDatos\obj\Debug\BaseDatos.dll
+D:\programacion\HTML5\Pokemon\Servidor\Web2\BaseDatos\obj\Debug\BaseDatos.pdb
+D:\programacion\HTML5\Pokemon\Servidor\Web3\BaseDatos\bin\Debug\BaseDatos.dll
+D:\programacion\HTML5\Pokemon\Servidor\Web3\BaseDatos\bin\Debug\BaseDatos.pdb
+D:\programacion\HTML5\Pokemon\Servidor\Web3\BaseDatos\obj\Debug\BaseDatos.csprojResolveAssemblyReference.cache
+D:\programacion\HTML5\Pokemon\Servidor\Web3\BaseDatos\obj\Debug\BaseDatos.dll
+D:\programacion\HTML5\Pokemon\Servidor\Web3\BaseDatos\obj\Debug\BaseDatos.pdb
+D:\programacion\HTML5\Pokemon\Servidor\Web4\BaseDatos\bin\Debug\BaseDatos.dll
+D:\programacion\HTML5\Pokemon\Servidor\Web4\BaseDatos\bin\Debug\BaseDatos.pdb
+D:\programacion\HTML5\Pokemon\Servidor\Web4\BaseDatos\obj\Debug\BaseDatos.csprojResolveAssemblyReference.cache
+D:\programacion\HTML5\Pokemon\Servidor\Web4\BaseDatos\obj\Debug\BaseDatos.dll
+D:\programacion\HTML5\Pokemon\Servidor\Web4\BaseDatos\obj\Debug\BaseDatos.pdb
+I:\Juan Carlos Perez Casal\PKMGM\WebGeo\WebGeo\BaseDatos\bin\Debug\BaseDatos.dll
+I:\Juan Carlos Perez Casal\PKMGM\WebGeo\WebGeo\BaseDatos\bin\Debug\BaseDatos.pdb
+I:\Juan Carlos Perez Casal\PKMGM\WebGeo\WebGeo\BaseDatos\obj\Debug\BaseDatos.csprojResolveAssemblyReference.cache
+I:\Juan Carlos Perez Casal\PKMGM\WebGeo\WebGeo\BaseDatos\obj\Debug\BaseDatos.dll
+I:\Juan Carlos Perez Casal\PKMGM\WebGeo\WebGeo\BaseDatos\obj\Debug\BaseDatos.pdb
+C:\PKMGM\WebGeo\BaseDatos\bin\Debug\BaseDatos.dll
+C:\PKMGM\WebGeo\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\PKMGM\WebGeo\BaseDatos\obj\Debug\BaseDatos.csprojResolveAssemblyReference.cache
+C:\PKMGM\WebGeo\BaseDatos\obj\Debug\BaseDatos.dll
+C:\PKMGM\WebGeo\BaseDatos\obj\Debug\BaseDatos.pdb
+D:\programacion\HTML5\Pokemon\Servidor\WebGeo\BaseDatos\bin\Debug\BaseDatos.dll
+D:\programacion\HTML5\Pokemon\Servidor\WebGeo\BaseDatos\bin\Debug\BaseDatos.pdb
+D:\programacion\HTML5\Pokemon\Servidor\WebGeo\BaseDatos\obj\Debug\BaseDatos.csprojResolveAssemblyReference.cache
+D:\programacion\HTML5\Pokemon\Servidor\WebGeo\BaseDatos\obj\Debug\BaseDatos.dll
+D:\programacion\HTML5\Pokemon\Servidor\WebGeo\BaseDatos\obj\Debug\BaseDatos.pdb

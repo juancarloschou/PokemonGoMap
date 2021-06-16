@@ -1,0 +1,25 @@
+D:\programacion\HTML5\Pokemon\Servidor\Web3\BaseDatos\bin\Release\BaseDatos.dll
+D:\programacion\HTML5\Pokemon\Servidor\Web3\BaseDatos\bin\Release\BaseDatos.pdb
+D:\programacion\HTML5\Pokemon\Servidor\Web3\BaseDatos\obj\Release\BaseDatos.csprojResolveAssemblyReference.cache
+D:\programacion\HTML5\Pokemon\Servidor\Web3\BaseDatos\obj\Release\BaseDatos.dll
+D:\programacion\HTML5\Pokemon\Servidor\Web3\BaseDatos\obj\Release\BaseDatos.pdb
+D:\programacion\HTML5\Pokemon\Servidor\Web4\BaseDatos\bin\Release\BaseDatos.dll
+D:\programacion\HTML5\Pokemon\Servidor\Web4\BaseDatos\bin\Release\BaseDatos.pdb
+D:\programacion\HTML5\Pokemon\Servidor\Web4\BaseDatos\obj\Release\BaseDatos.csprojResolveAssemblyReference.cache
+D:\programacion\HTML5\Pokemon\Servidor\Web4\BaseDatos\obj\Release\BaseDatos.dll
+D:\programacion\HTML5\Pokemon\Servidor\Web4\BaseDatos\obj\Release\BaseDatos.pdb
+I:\Juan Carlos Perez Casal\PKMGM\WebGeo\WebGeo\BaseDatos\bin\Release\BaseDatos.dll
+I:\Juan Carlos Perez Casal\PKMGM\WebGeo\WebGeo\BaseDatos\bin\Release\BaseDatos.pdb
+I:\Juan Carlos Perez Casal\PKMGM\WebGeo\WebGeo\BaseDatos\obj\Release\BaseDatos.csprojResolveAssemblyReference.cache
+I:\Juan Carlos Perez Casal\PKMGM\WebGeo\WebGeo\BaseDatos\obj\Release\BaseDatos.dll
+I:\Juan Carlos Perez Casal\PKMGM\WebGeo\WebGeo\BaseDatos\obj\Release\BaseDatos.pdb
+C:\PKMGM\WebGeo\BaseDatos\bin\Release\BaseDatos.dll
+C:\PKMGM\WebGeo\BaseDatos\bin\Release\BaseDatos.pdb
+C:\PKMGM\WebGeo\BaseDatos\obj\Release\BaseDatos.csprojResolveAssemblyReference.cache
+C:\PKMGM\WebGeo\BaseDatos\obj\Release\BaseDatos.dll
+C:\PKMGM\WebGeo\BaseDatos\obj\Release\BaseDatos.pdb
+D:\programacion\HTML5\Pokemon\Servidor\WebGeo\BaseDatos\bin\Release\BaseDatos.dll
+D:\programacion\HTML5\Pokemon\Servidor\WebGeo\BaseDatos\bin\Release\BaseDatos.pdb
+D:\programacion\HTML5\Pokemon\Servidor\WebGeo\BaseDatos\obj\Release\BaseDatos.csprojResolveAssemblyReference.cache
+D:\programacion\HTML5\Pokemon\Servidor\WebGeo\BaseDatos\obj\Release\BaseDatos.dll
+D:\programacion\HTML5\Pokemon\Servidor\WebGeo\BaseDatos\obj\Release\BaseDatos.pdb
