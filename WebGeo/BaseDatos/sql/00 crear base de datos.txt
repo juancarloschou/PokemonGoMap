@@ -1,2 +1,0 @@
-Nombre: Agco
-Juego caracteres: Modern_Spanish_CI_AI
