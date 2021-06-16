@@ -1,0 +1,2 @@
+CREATE ROLE executor
+GRANT EXECUTE TO executor
