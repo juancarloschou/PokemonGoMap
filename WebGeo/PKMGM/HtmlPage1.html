@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+    <script src="js/FuncionesAJAX.js?i=1"></script>
+    <script type="text/javascript">
+        function PruebaGeo() {
+            //var url = 'http://localhost:61093/Geo.ashx';
+            //var url = 'http://servicios.telcohumanmedia.com/Preproduccion/PKMGM/Geo.ashx';
+            var url = 'http://www.telcohumanmedia.vservers.es/Geo.ashx';
+
+            var params = "";
+            params = "tipo=tipo";
+            //params = "bbox=2.1001052856445312%2C48.76354429174353%2C2.6082229614257817%2C48.954410086040724&zoom=12";
+            GAjaxDatos('divGeo', url, params, true);
+        }
+
+        $(document).ready(function(){
+            PruebaGeo();
+        })
+    </script>
+</head>
+<body>
+    Test
+    <div id="divGeo"></div>
+</body>
+</html>
