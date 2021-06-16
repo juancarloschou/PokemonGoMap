@@ -1,0 +1,258 @@
+/*
+.full-map {
+	background-color: #b5d0d0;
+	height: 100%;
+	width: 100%;
+}
+*/
+
+.button-center {
+	top: 55px;
+	left: .5em;
+}
+
+.button-buscar {
+	top: .5em;
+	left: .5em;
+}
+
+.ol-zoom {
+	top: 92px;
+}
+
+
+.check-capa {
+	top: 0.5em;
+	right: 10em;
+	background: rgba(0, 60, 136, 0.5);
+	color: white;
+}
+.check-capa:hover {
+	background: rgba(77, 119, 172, 0.5);
+}
+
+.check-pkm {
+	top: 0.5em;
+	right: 0.5em;
+	background: rgba(0, 60, 136, 0.5);
+	color: white;
+}
+.check-pkm:hover {
+	background: rgba(77, 119, 172, 0.5);
+}
+
+.check-par {
+	top: 4em;
+	right: 10em;
+	background: rgba(0, 60, 136, 0.5);
+	color: white;
+}
+.check-par:hover {
+	background: rgba(77, 119, 172, 0.5);
+}
+
+.check-gim {
+	top: 4em;
+	right: .5em;
+	background: rgba(0, 60, 136, 0.5);
+	color: white;
+}
+.check-gim:hover {
+	background: rgba(77, 119, 172, 0.5);
+}
+
+
+/*
+.popup {
+	 white-space: nowrap;
+}
+*/
+
+.popover{
+	min-width: 330px ! important;
+    max-width: 500px ! important; 
+}
+.texto{
+	width:120px;
+}
+.probLabel{
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.map:-moz-full-screen {
+	height: 100%;
+}
+.map:-webkit-full-screen {
+	height: 100%;
+}
+.map:-ms-fullscreen {
+	height: 100%;
+}
+.map:fullscreen {
+	height: 100%;
+}
+.ol-rotate {
+	top: 3em;
+}
+
+
+html, body, #map {
+	width: 100%;
+	height: 100%;
+    margin:0;
+    padding:0;
+	/* overflow: hidden; */
+}
+
+body {
+	position:fixed;
+}
+
+.SinScroll {
+	overflow: hidden;
+}
+
+
+.anim {
+	z-index: 2000;
+	overflow: hidden;
+}
+
+.img_anim_fondo {
+	z-index: 1990;
+}
+
+.animacion_centro { 
+	height: 364px;
+	width: 360px;
+	overflow: hidden;
+	
+	margin: auto;
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right: 0;
+	
+	z-index: 2000;
+}
+.anim_arr {
+	z-index: 2000;
+}
+.anim_aba {
+	z-index: 2000;
+}
+.img_anim_arr {
+	z-index: 2000;
+}
+.img_anim_aba {
+	z-index: 2000;
+}
+
+
+.buscar {
+	z-index: 2000;
+	position: absolute; 
+	top: 0; left: 0;
+	width: 100%;
+	height: 100%;
+	background: white;
+}
+
+.panelBuscarPkm {
+	z-index: 2000;
+	overflow-x: hidden;
+	overflow-y: scroll; 
+	width: 100%;
+	height: 100%;
+}
+.divBuscarPkm {
+	z-index: 2000;
+}
+.botonPkm {
+	margin: 0;
+	padding: 0;
+}
+.buscarPkm {
+	width: 60px;
+	height: 60px;
+	float: left;
+	/* border: solid 1px black; */
+}
+
+.panelBuscarTipoPkm {
+	z-index: 2000;
+	overflow-x: hidden;
+	overflow-y: scroll; 
+	width: 300px;
+	height: 100%;
+	margin: 0 auto;
+}
+.divBuscarTipoPkm {
+	z-index: 2000;
+}
+.botonTipoPkm {
+	margin: 0;
+	padding: 0;
+}
+.buscarTipoContendor {
+	width:300px;
+	height:50px;
+}
+.buscarTipoPkm {
+	width: 50px;
+	height: 50px;
+	/*float: left;*/
+	/* border: solid 1px black; */
+}
+.buscarTipoNombre {
+	padding-left:30px;
+	font-size:20px;
+	width: 260px;
+}
+
+.panelElegirBuscar {
+	z-index: 2000;
+	width: 100%;
+	height: 100%;
+	background: white;
+	/* margin: auto;
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right: 0; */
+	font-family: Verdana;
+	font-size: 16px;
+}
+.elegirBuscarcentrado
+{
+	margin: auto;
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right: 0;
+	width: 300px;
+	height: 305px;
+}
+.buscandoPanel {
+	width: 300px;
+	height: 55px;
+	text-align: center;
+}
+.elegirPokemon {
+	width: 300px;
+	height:50px;
+	margin-top:0px;
+}
+.elegirTipoPokemon {
+	width: 300px;
+	height:50px;
+	margin-top:30px;
+}
+.elegirNoBuscar {
+	width: 300px;
+	height:50px;
+	margin-top:30px;
+}
+.volver {
+	position: relative;
+}
+.volver img {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
